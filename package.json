@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yeonjujeong0511/build/issues"
   },
-  "homepage": "https://github.com/yeonjujeong0511/build#readme"
+  "homepage": "https://github.com/yeonjujeong0511/build#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
